@@ -1,1 +1,1 @@
-Live at [http://alamqazi.github.io](http://alamqazi.github.io).
+Live at [http://alamgirqazi.me](http://alamgirqazi.me).
