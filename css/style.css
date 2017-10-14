@@ -12,6 +12,9 @@ a {
   font-weight: bold;
   font-size: 15px;
 }
+a:hover {
+  text-decoration: none;
+}
 
 ul {
   list-style-type: none;
